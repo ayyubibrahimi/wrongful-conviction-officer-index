@@ -1,0 +1,11 @@
+.idea
+*.env
+*__pycache__*
+/.coverage
+.DS_Store
+data/
+*.csv
+*.pdf
+*.json
+myenv/
+*.png
