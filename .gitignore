@@ -9,3 +9,4 @@ data/
 *.json
 myenv/
 *.png
+*.txt
